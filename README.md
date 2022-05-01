@@ -2,16 +2,28 @@
 You are permitted to modify & re-configure this script. You are not permitted to sell this script and or rip this script, You must provide proper credit to the developer of this script (Wakie Modifications) 
 
 # Description
-Fully functional script with a extra, livery, and vehicle wash command. 
-The extra command has a module included that checks for any vehicle damage and if any is detected you will not be able to toggle extras.
-Everything is easily configurable to your liking!
+Fully functional QBCore / Standalone script, that includes an extra, livery, and a vehicle wash command.
+
+# Features
+1. Extra Command
+2. Livery Command
+3. Wash Vehicle Command
+4. Localization Support
+5. Includes A Vehicle Damage Check Module When Toggling Extras, To Prevent Vehicle Repair Abuse.
+6. Easily Configurable
+
+# Update 1.1
+1. QBCore Support Added!
+2. Checks if the player is actually in a vehicle for all the commands.
+3. Localization Support Added!
+4. Small Optimization Tweaks
 
 # Script Preformance
 While Running In The Background: 0.00ms CPU Usage
 While Usage Of Any Commands: 0.00ms - 0.01 CPU Usage
 
 # Dependencies 
-1. None (Standalone)
+1. QBCore Or Standalone (Depending On Configurations)
 
 # Installation Steps
 
